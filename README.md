@@ -1,5 +1,5 @@
 # Sales-analysis-projects
-A collection of all my sales analysis
+A collection of all my sales analysis project
 
 [Lead Segmentation project] (https://github.com/okoba/lead-segmentation)
 
